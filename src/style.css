@@ -1,0 +1,57 @@
+body {
+    background: #fff;
+}
+
+
+.wrapper {
+    display: block;
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px solid #5a6275;
+    border-radius: 4%;
+
+}
+
+.form-control {
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    color: #5a6275;
+}
+
+.three {
+    display: flex;
+    padding: 10px;
+}
+
+main,
+section {
+    padding: 10px;
+}
+
+.four {
+    display: block;
+    border: 1px solid #5a6275;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+#temperature {
+    font-size: 100px;
+}
+
+#units {
+    position: relative;
+    top: -4px;
+}
+
+a {
+    text-decoration: none;
+}
