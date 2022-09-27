@@ -66,6 +66,13 @@ a {
         white-space: no wrap;
     }
 
+    footer {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+
+    }
+
 
 }
 
